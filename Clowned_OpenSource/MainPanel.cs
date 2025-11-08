@@ -52,6 +52,10 @@ namespace Clowned_OpenSource
             {
                 OpenOtherForm(new Games.SSOPanel());
             }
+            else
+            {
+                MessageBox.Show("Star Stable Online is not running. Please start the game first.", "Game Not Running", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
         private void SelectAOButton_Click(object sender, EventArgs e)
@@ -60,16 +64,20 @@ namespace Clowned_OpenSource
             {
                 OpenOtherForm(new Games.AOPanel());
             }
+            else
+            {
+                MessageBox.Show("Alicia Online is not running. Please start the game first.", "Game Not Running", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
         private void SelectETS2Button_Click(object sender, EventArgs e)
         {
-            // Not yet
+            MessageBox.Show("Euro Truck Simulator 2 support is coming soon!", "Coming Soon", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void SelectGIButton_Click(object sender, EventArgs e)
         {
-            // Not yet
+            MessageBox.Show("Genshin Impact support is coming soon!", "Coming Soon", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void SelectSettingsButton_Click(object sender, EventArgs e)
