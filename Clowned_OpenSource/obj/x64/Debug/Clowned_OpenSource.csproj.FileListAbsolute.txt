@@ -13,3 +13,13 @@ D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.AOPa
 D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.SSOPanel.resources
 D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.HomePanel.resources
 D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.SettingsPanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csprojResolveAssemblyReference.cache
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.AOPanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.SSOPanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.HomePanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.MainPanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Properties.Resources.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.SettingsPanel.resources
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csproj.GenerateResource.Cache
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.exe
+c:\Users\gaming\OneDrive\Documenten\php_eind\ClownedCheats-Open-Source\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.pdb
